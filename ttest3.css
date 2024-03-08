@@ -1,0 +1,24 @@
+.detel{
+    margin-left: 8%;
+    margin-top: 15%
+
+}
+.detel h1{ 
+    font-size: 50px;
+    color: #212121;
+    margin-bottom:20px;
+}
+
+span{
+    color: orangered;
+}
+.detel p{
+    color: #555;
+    line-height: 22px;
+}
+.image:hover .boy{  
+    right: : 45%;
+}
+
+
+
